@@ -1,11 +1,11 @@
-#include <iostream>                                     // Ein- und Ausgabebibliothek
+#include <iostream>                                    
 
 
-int main(){                                             // Hauptfunktion
+int main(){                                            
 
-    std::cout << "Hallo, du schöne Welt!" << std::endl; // Ausgabe
+    std::cout << "mein erster wunderschöner cpp code made by anke t" << std::endl;
 
 
-    return 0;                                           // Optionale Rückgabe an das Betriebssystem
+    return 0;                                           
 
 }
